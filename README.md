@@ -10,7 +10,7 @@
 
 First Header | Second Header
 ------------ | -------------
-Code1_Cout|[Code1_Cout](https://github.com/songk1992/Cpp_Study/blob/master/code/Code1_Cout)
+Code1_HelloWorld|[Code1_HelloWorld](https://github.com/songk1992/Cpp_Study/blob/master/code/Code1_HelloWorld)
 Code2_Constant|[Code2_Constant](https://github.com/songk1992/Cpp_Study/blob/master/code/Code2_Constant)
 Code3_Control_character|[Code3_Control_character](https://github.com/songk1992/Cpp_Study/blob/master/code/Code3_Control_character)
 문자열의 가로 출력과 세로 출력| [Code4_Control_character](https://github.com/songk1992/Cpp_Study/blob/master/code/Code4_Control_character)
@@ -28,9 +28,9 @@ Code3_Control_character|[Code3_Control_character](https://github.com/songk1992/C
 홀수/짝수를 맞추는 프로그램|[Code16_Operator](https://github.com/songk1992/Cpp_Study/blob/master/code/Code16_Operator)
 소수판별기|[Code17_Operator](https://github.com/songk1992/Cpp_Study/blob/master/code/Code17_Operator)
 약수구하기|[Code18_Operator](https://github.com/songk1992/Cpp_Study/blob/master/code/Code18_Operator)
-공통약수구하기|[Code19_Operator]()
-|[]()
-|[]()
+공통약수구하기|[Code19_Operator](https://github.com/songk1992/Cpp_Study/blob/master/code/Code19_Operator)
+나의기분확인|[Code20_ifelse](https://github.com/songk1992/Cpp_Study/blob/master/code/Code20_ifelse)
+등급별고기|[Code21_switchcase](https://github.com/songk1992/Cpp_Study/blob/master/code/Code21_switchcase)
 |[]()
 |[]()
 |[]()
