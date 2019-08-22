@@ -31,7 +31,7 @@ Code3_Control_character|[Code3_Control_character](https://github.com/songk1992/C
 공통약수구하기|[Code19_Operator](https://github.com/songk1992/Cpp_Study/blob/master/code/Code19_Operator)
 나의기분확인|[Code20_ifelse](https://github.com/songk1992/Cpp_Study/blob/master/code/Code20_ifelse)
 등급별고기|[Code21_switchcase](https://github.com/songk1992/Cpp_Study/blob/master/code/Code21_switchcase)
-|[]()
+계속진행|[Code22_switchcase](https://github.com/songk1992/Cpp_Study/blob/master/code/Code22_switchcase)
 |[]()
 |[]()
 |[]()
