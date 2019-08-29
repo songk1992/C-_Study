@@ -33,7 +33,7 @@ Code3_Control_character|[Code3_Control_character](https://github.com/songk1992/C
 등급별고기|[Code21_switchcase](https://github.com/songk1992/Cpp_Study/blob/master/code/Code21_switchcase)
 계속진행|[Code22_switchcase](https://github.com/songk1992/Cpp_Study/blob/master/code/Code22_switchcase)
 Bool_istrue|[Code23_bool](https://github.com/songk1992/Cpp_Study/blob/master/code/Code23_bool)
-|[]()
+queue|[Code24_queue](https://github.com/songk1992/Cpp_Study/blob/master/code/Code24_queue)
 |[]()
 |[]()
 |[]()
