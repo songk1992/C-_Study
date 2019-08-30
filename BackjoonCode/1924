@@ -81,3 +81,33 @@ int main()
 			break;
 		}
 }
+
+/* 배열사용
+#include <iostream>
+#include <string>
+using namespace std;
+int month[12] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+string day[7] = { "MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN" };
+
+int main()
+{
+	int x, y, sum, date;
+
+	cin >> x >> y;
+	
+	sum = 0;
+
+	for (int i = 0; i < x - 1; i++)
+	{
+		sum += month[i];
+	}
+
+	sum += y - 1;
+
+	date = sum % 7;
+
+	cout << day[date] << endl;
+
+	return 0;
+}
+*/
