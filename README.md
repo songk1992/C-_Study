@@ -36,7 +36,7 @@ Bool_istrue|[Code23_bool](https://github.com/songk1992/Cpp_Study/blob/master/cod
 queue|[Code24_queue](https://github.com/songk1992/Cpp_Study/blob/master/code/Code24_queue)
 소수찾기+함수|[Code25_checkprime_function](https://github.com/songk1992/Cpp_Study/blob/master/code/Code25_checkprime_function)
 문자열 길이재기|[Code26](https://github.com/songk1992/Cpp_Study/blob/master/code/Code26)
-|[]()
+변수배열|[Code27_variable_array](https://github.com/songk1992/Cpp_Study/blob/master/code/Code27_variable_array)
 |[]()
 |[]()
 |[]()
