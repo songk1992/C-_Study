@@ -58,3 +58,107 @@ CPP Paint|[Code29_paint_tool](https://github.com/songk1992/Cpp_Study/new/master/
 |[]()
 |[]()
 |[]()
+--------------------------------------
+ 알고리즘 관련 유용한 사이트 모음
+--------------------------------------
+
+--------------------------------------
+[온라인 저지 사이트]
+
+https://algospot.com/
+https://codeforces.com
+http://topcoder.com
+https://www.acmicpc.net/
+https://leetcode.com/problemset/algorithms/
+https://programmers.co.kr/learn/challenges
+https://www.hackerrank.com
+http://codingdojang.com/
+http://codeup.kr/JudgeOnline/index.php
+http://euler.synap.co.kr/
+http://koistudy.net
+https://www.codewars.com
+https://app.codility.com/programmers/
+http://euler.synap.co.kr/
+
+--------------------------------------
+[삼성 SW역량테스트 대비 모의고사 모음]
+
+https://www.swexpertacademy.com/main/searchAll/searchMore.do?category=CODE&keyword=%EB%AA%A8%EC%9D%98+sw&pageSize=20&pageIndex=1
+
+[삼성 기출 문제 모음]
+https://www.acmicpc.net/workbook/view/1152
+
+[유형별 문제 모음]
+[기초] https://code.plus/course/32
+[연습] https://code.plus/course/33
+[실전] https://code.plus/course/34
+
+--------------------------------------
+[알고리즘 공부 가이드 블로그글]
+
+https://plzrun.tistory.com/entry/%EC%82%BC%EC%84%B1-%EC%84%9C%ED%8B%B0%EC%82%BC%EC%84%B1-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B2%80%EC%A0%95-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0?category=588657
+https://baactree.tistory.com/52
+https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
+https://ryute.tistory.com/m/33
+
+
+--------------------------------------
+[기술 인터뷰 관련 정보 사이트]
+
+https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+https://trello.com/b/BWtpfywH/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91
+
+
+--------------------------------------
+[백준 단계별로 풀기]
+
+https://www.acmicpc.net/step
+
+
+--------------------------------------
+[알고리즘 시각자료]
+
+https://visualgo.net/ko
+
+
+--------------------------------------
+[카카오 기출 문제 모음]
+
+https://programmers.co.kr/learn/challenges?tab=all_challenges
+
+
+--------------------------------------
+[삼성 기출 문제 모음]
+
+https://www.acmicpc.net/workbook/view/1152
+
+
+--------------------------------------
+[T아카데미 기초 유툽 강의]
+
+https://youtu.be/gCcYTzEBUD0
+
+
+--------------------------------------
+[T아카데미 중급 유툽 강의]
+
+https://youtu.be/Cc-YlbLOaqY?list=PL9mhQYIlKEhcqOXxPOhs6pNpq681RDK4J
+
+
+--------------------------------------
+[알고리즘 문제해결 전략 책 문제 모음]
+
+https://book.algospot.com/problems.html
+
+[알고리즘 문제해결 전략 책 구매 사이트 URL]
+
+http://www.yes24.com/Product/Goods/8006522
+
+
+--------------------------------------
+[테스트 케이스 직접 만드는 사이트]
+
+https://www.random.org/integers/
+
+
+
