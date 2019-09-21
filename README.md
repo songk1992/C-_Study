@@ -41,7 +41,7 @@ ArraySort|[Code28_array_sort](https://github.com/songk1992/Cpp_Study/blob/master
 CPP Paint|[Code29_paint_tool](https://github.com/songk1992/Cpp_Study/new/master/code29)
 가변배열|[Code30_Vector](https://github.com/songk1992/Cpp_Study/blob/master/code/Code30_Vector)
 자료형의크기|[Code31_Sizeof](https://github.com/songk1992/Cpp_Study/blob/master/code/Code31_Sizeof)
-|[]()
+Short type overflow|[Code32_overflow](https://github.com/songk1992/Cpp_Study/blob/master/code/Code32_overflow)
 |[]()
 |[]()
 |[]()
