@@ -60,13 +60,14 @@ int add(int a, int b)
 int add(int, int);
 
 //SimpleFnMain.cpp
-#include <stdio.h>
+#include <iostream>
 #include "SimpleFn.h"
+
 void main()
 {
-int x =3, y=4, z;
-z =add(x,y);
-cout << z;
+	int x = 3, y = 4, z;
+	z = add(x, y);
+	std::cout << z;
 }
 
 
