@@ -43,7 +43,7 @@ CPP Paint|[Code29_paint_tool](https://github.com/songk1992/Cpp_Study/new/master/
 자료형의크기|[Code31_Sizeof](https://github.com/songk1992/Cpp_Study/blob/master/code/Code31_Sizeof)
 Short type overflow|[Code32_overflow](https://github.com/songk1992/Cpp_Study/blob/master/code/Code32_overflow)
 SwitchGrade|[Code33_SwitchGrade](https://github.com/songk1992/Cpp_Study/blob/master/code/Code33_SwitchGrade)
-|[](https://github.com/songk1992/Cpp_Study/blob/master/code/)
+숫자맞히기 게임|[Code34_updowngame](https://github.com/songk1992/Cpp_Study/blob/master/code/)
 |[](https://github.com/songk1992/Cpp_Study/blob/master/code/)
 |[](https://github.com/songk1992/Cpp_Study/blob/master/code/)
 |[](https://github.com/songk1992/Cpp_Study/blob/master/code/)
