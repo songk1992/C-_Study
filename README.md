@@ -46,7 +46,7 @@ SwitchGrade|[Code33_SwitchGrade](https://github.com/songk1992/Cpp_Study/blob/mas
 숫자맞히기 게임|[Code34_updowngame](https://github.com/songk1992/Cpp_Study/blob/master/code/Code34_updowngame)
 다른소스파일 함수 사용|[Code35_function_header](https://github.com/songk1992/Cpp_Study/blob/master/code/Code35_function_header)
 다양한 난수 발생|[code36_random_generator](https://github.com/songk1992/Cpp_Study/blob/master/code/code36_random_generator)
-포인터와 |[code37_cpppointer](https://github.com/songk1992/Cpp_Study/blob/master/code/code37_cpppointer)
+포인터와 |[Code37_cpppointer](https://github.com/songk1992/Cpp_Study/blob/master/code/Code37_cpppointer)
 |[](https://github.com/songk1992/Cpp_Study/blob/master/code/)
 |[](https://github.com/songk1992/Cpp_Study/blob/master/code/)
 |[](https://github.com/songk1992/Cpp_Study/blob/master/code/)
