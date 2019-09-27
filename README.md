@@ -68,6 +68,14 @@ SwitchGrade|[Code33_SwitchGrade](https://github.com/songk1992/Cpp_Study/blob/mas
 |[](https://github.com/songk1992/Cpp_Study/blob/master/code/)
 |[](https://github.com/songk1992/Cpp_Study/blob/master/code/)
 
+
+
+
+[CPP 핵심 가이드라인]  
+https://www.cppkorea.org/CppCoreGuidelines/CppCoreGuidelines.html#S-introduction
+
+
+
 https://www.youtube.com/watch?v=lBawfsBIT7s&list=PL4SIC1d_ab-YhAo-VE51_yxBHd6yZOFHu
 --------------------------------------
  알고리즘 관련 유용한 사이트 모음
