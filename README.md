@@ -19,7 +19,7 @@ Code3_Control_character|[Code3_Control_character](https://github.com/songk1992/C
 변수에 저장된 값 변경(오류발생)|[Code7_Variable](https://github.com/songk1992/Cpp_Study/blob/master/code/Code7_Variable)
 키보드로 변수값 담기|[Code8_Variable](https://github.com/songk1992/Cpp_Study/blob/master/code/Code8_Variable)
 변수값 고정 | [Code9_Variable](https://github.com/songk1992/Cpp_Study/blob/master/code/Code9_Variable)
-입력받은 두 부동소수점수 사칙연산 |[Code10_Variable](https://github.com/songk1992/Cpp_Study/blob/master/code/Code10_Variable)
+입력받은 두 부동소수점수 사칙연산 |[Code10_Variable](https://github.com/songk1992/Cpp_Study/blob/master/code/Code10_Variable.cpp)
 0 부터 255 사이의 정수를 입력시 ASCII 문자로 출력 |[Code11_Variable](https://github.com/songk1992/Cpp_Study/blob/master/code/Code11_Variable)
 컴퓨터가 임의로 선택한 숫자 맞추기|[Code12_Variable](https://github.com/songk1992/Cpp_Study/blob/master/code/Code12_Variable)
 증감연산자,관계연산자|[Code13_Variable](https://github.com/songk1992/Cpp_Study/blob/master/code/Code13_Variable)
