@@ -1,5 +1,5 @@
 
-#https://www.acmicpc.net/problem/18406
+# https://www.acmicpc.net/problem/18406 
 str_N = (input())
 Length_N = len(str_N)
 int_N = int(str_N)
