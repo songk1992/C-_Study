@@ -54,4 +54,4 @@ for _ in range(N):
     a, b = map(int, input().split())
     w.append(a)
     v.append(b)
-print(KS(N, C))
+print(KS(N, C)) 
