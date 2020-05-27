@@ -11,4 +11,3 @@ for _ in array:
     waiting_time += _ * count
     count += 1
 print(waiting_time)
-
