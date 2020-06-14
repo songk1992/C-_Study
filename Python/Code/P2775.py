@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/2775
-
+# https://www.acmicpc.net/source/20200643
 
 arr = [[0] * 15 for _ in range(15)]
 for _ in range(15):
